@@ -25,7 +25,7 @@
     "sass": "1.65.1",
     "text-to-svg": "3.1.5",
     "vue": "3.3.4",
-    "vue-gtag": "2.0.1",
+    "vue-gtag": "2.1.2",
     "vue-i18n": "9.2.2",
     "vue3-colorpicker": "2.2.2"
   },
